@@ -17,7 +17,7 @@
 <img  src="https://image.flaticon.com/icons/svg/174/174855.svg" width="40" />
 </a>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=iaamar&label=Visits&color=red&style=plastic" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=iaamar&label=Views&color=red&style=plastic" alt="views" />
 <p align="center">
 
 <img width="55%" 
