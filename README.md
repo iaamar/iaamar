@@ -53,6 +53,6 @@ alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resou
   
 [![Linkedin: amarnagargoje](https://img.shields.io/badge/-amar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amar-nagargoje/)](https://www.linkedin.com/in/amar-nagargoje/) 
   [![GitHub iaamar](https://img.shields.io/github/followers/iaamar?label=follow&style=social)](https://github.com/iaamar) 
-  [![website](https://img.shields.io/badge/PortfolioWebsite-amarcode.co-2648ff?style=flat-square&logo=google)](https://amarcode.co/)
+  [![website](https://img.shields.io/badge/PortfolioWebsite-developedbyamar-2648ff?style=flat-square&logo=google)](https://developedbyamar.netlify.app/)
   
 ### Show some ❤️ by starring some of the repositories! </div>
