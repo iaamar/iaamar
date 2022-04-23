@@ -1,21 +1,6 @@
-## Hola, I'm Amar Nagargoje !<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> [Check Out My Portfolio 🚀](https://amarcode.co)
+## Hola, I'm Amar Nagargoje !<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> [Check Out My Portfolio 🚀](https://developedbyamar.netlify.app/)
   
 
-<a href="https://www.linkedin.com/in/amar-nagargoje/">
-<img align="left" src="https://image.flaticon.com/icons/svg/185/185964.svg" width="40" />
-</a>
-
-<a href="https://github.com/iaamar">
-<img align="left" src="https://image.flaticon.com/icons/svg/179/179323.svg" width="40" />
-</a>
-
-<a href="mailto:amargithub@gmail.com"> 
-<img align="left" src="https://image.flaticon.com/icons/svg/2965/2965306.svg" width="40" />
-</a>
-
-<a href="https://www.instagram.com/iaamarn/"> 
-<img  src="https://image.flaticon.com/icons/svg/174/174855.svg" width="40" />
-</a>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=iaamar&label=Views&color=green&style=plastic" alt="views" />
 <p align="center">
