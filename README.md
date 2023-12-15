@@ -1,4 +1,4 @@
-## Hello, I'm Amar Nagargoje !<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> [Check Out My Portfolio 🚀](https://amarn.netlify.app/)
+## Hello, I'm Amar Nagargoje !<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> [Check Out My Portfolio 🚀](https://amarn.netlify.app)
   
 
 <br/>
