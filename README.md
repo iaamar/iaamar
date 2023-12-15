@@ -2,8 +2,6 @@
   
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=iaamar&label=Views&color=green&style=plastic" alt="views" />
-<p align="center">
 
 <img width="55%" 
 alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -16,7 +14,6 @@ alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resou
 <br/>
 
 <img height="40"  title="flutter"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"> <img height="40"  title="Dart"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> <img height="40"  title="android"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"> <img height="40"  title="javascript"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img  title="node"  height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> 
-<img title="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" /> 
 <img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" /> 
 <img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" /> 
 
@@ -31,13 +28,3 @@ alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resou
 
 <br/>
 <br/>
-
-<div align="center"> 
-  
-  ## Socials : 
-  
-[![Linkedin: amarnagargoje](https://img.shields.io/badge/-amar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amar-nagargoje/)](https://www.linkedin.com/in/amar-nagargoje/) 
-  [![GitHub iaamar](https://img.shields.io/github/followers/iaamar?label=follow&style=social)](https://github.com/iaamar) 
-  [![website](https://img.shields.io/badge/PortfolioWebsite-developedbyamar-2648ff?style=flat-square&logo=google)](https://developedbyamar.netlify.app/)
-  
-### Show some ❤️ by starring some of the repositories! </div>
