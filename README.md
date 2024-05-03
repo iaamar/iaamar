@@ -26,7 +26,6 @@ alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resou
 <img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40">
 <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg"> 
-<img height="64px" src="https://cdn.svgporn.com/logos/sass.svg"> 
 </div>
 <br/>
 <br/>
