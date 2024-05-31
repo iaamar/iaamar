@@ -1,5 +1,5 @@
 ## Hello, I'm Amar Nagargoje - A NextGen Software Engineer.
-[Portfolio](https://amarnagargoje.netlify.app/)
+<a href="https://amarnagargoje.netlify.app/" target="_blank">Portfolio</a>
 <br/>
 
 I am a graduate student at Northeastern University. I have 3 years of work experience in software development and is focused in niche software building with AR, VR, Java, Swift, MERN and 3D
