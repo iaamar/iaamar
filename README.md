@@ -54,11 +54,6 @@ I am a graduate student at Northeastern University. I have 3 years of work exper
 * Implemented notification systems in the JavaScript framework to minimize front-end computation, contributing to the app's remarkable resurgence
 * Skills: Flutter, React, NextJS, Node, Firebase, JavaScript, MVC, Dart, AppStore, TestFlight
 
-<img width="55%" 
-alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<img width="55%"  alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=iaamar&show_icons=true&hide_border=true" />
-</p>
-
 
 # **Things I like to do** 
 I would play tennis on off's and travel at least twice in 6 months
