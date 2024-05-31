@@ -16,7 +16,7 @@ I am a graduate student at Northeastern University. I have 3 years of work exper
 [![My Skills](https://skillicons.dev/icons?i=java,swift,androidstudio,javascript,typescript,python,jquery,cpp,react,nextjs,nodejs,flutter,firebase,linux,aws,gcp,figma,linux,vim,eclipse,docker,kubernetes,mysql,mongodb,sqlite,html,git,github,gitlab&theme=light&perline=15)](https://skillicons.dev)
 
 
-# **My Education** :mortar_board:
+## **Education**
 
 **Master's in Computer Software**:- Pursuing my MS in Computer Software from Northeastern University. My courses are focused towards distributed system programming, generative AI systems and mobile application development
 * Courses:- 
@@ -28,13 +28,10 @@ I am a graduate student at Northeastern University. I have 3 years of work exper
 
 **Bachelor of Technology in Computer Science and Engineering**:- I completed my B. Tech from Maharashtra Institute of Technology, Pune, India (3.3/4.0 GPA). During my coursework, I explored some new fields like Artificial Intelligence, Big Data Analytics, Machine Learning, Deep Learning, Computer Graphics, Data Science, Compiler Design, Operating Systems, and Theory of Computation were the other interesting subjects I deep-dived into during this degree course
 
-# **Work Experience**
+## **Work Experience**
 
-
-### **Software Engineer at Coforge Pvt. Ltd.** (May 2021 - September 2023)
+### **Software Engineer at Coforge**
 * I was part of the core software dev and delivery team where I worked on core java development and MERN stack
-
-#### URA Projects
 * Led cross-functional teams in Java development to build bug-free, full-stack low-latency software, creating ~30 RESTAPIs
 * Code reviewed, and assisted PMs & architects to craft SRS from feature design, planning, and execution from scratch to production ready. Achieved ~17.7%↑ revenue growth from $0.8 million to $1.5 million
 * Delivered 20+ client requests which involved architectural changes to make fail-proof system, achieving ~17.7% rev. growth
@@ -46,15 +43,13 @@ I am a graduate student at Northeastern University. I have 3 years of work exper
 * Skills: Java, JavaScript, React-Native, MERN, AWS, Kubernetes, Docker, Postman, MySQL, NodeJs, NextJs, Git
 
 
-### **Software Engineer Intern at Ombre** (Sept 2020 - Mar 2021)
-* I was part of mobile app dev team
-
-#### Full Stack
+### **Software Engineer Intern at Ombre**
+* I was part of mobile app dev team 
 * Only intern to author live streaming use cases to production, improved architecture to BLoC level to lazy load UI. Resulting in a noteworthy surge in installs of ~15K under 4 months
 * Implemented notification systems in the JavaScript framework to minimize front-end computation, contributing to the app's remarkable resurgence
 * Skills: Flutter, React, NextJS, Node, Firebase, JavaScript, MVC, Dart, AppStore, TestFlight
 
 
 # **Things I like to do** 
-I would play tennis on off's and travel at least twice in 6 months
+I would play tennis and travel to unvisited places
 
