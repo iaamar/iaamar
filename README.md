@@ -6,7 +6,7 @@ I am a graduate student at Northeastern University. I have 3 years of work exper
 
 <div>
 - ⚡ I’m currently working on building realtime software and critical systems both in healthcare domain but not limited<br>
-- 💡 I’m a entrepreneur by nature<br>
+- 💡 I’m a entrepreneur by nature - Cofounder @ AetherAR<br>
 - 🧠 I’m also working on GenAI model building and deploying with LLM's<br>
 - 📫 Reach out to me at my email (amardnagargoje@gmail.com) or at my linkedin - https://www.linkedin.com/in/amarcs
 
