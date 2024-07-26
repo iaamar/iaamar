@@ -15,6 +15,7 @@ I am a graduate student at Northeastern University. I have 3 years of work exper
 #### ⚡ Skills
 [![My Skills](https://skillicons.dev/icons?i=java,swift,androidstudio,javascript,typescript,python,jquery,cpp,react,nextjs,nodejs,flutter,firebase,linux,aws,gcp,figma,linux,vim,eclipse,docker,kubernetes,mysql,mongodb,sqlite,html,git,github,gitlab&theme=light&perline=15)](https://skillicons.dev)
 
+![](https://myreadme.vercel.app/api/embed/iaamar?panels=userstatistics,toprepositories,toplanguages,commitgraph)
 
 ## **Education**
 
