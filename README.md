@@ -1,14 +1,14 @@
-## Hello, I'm Amar Nagargoje - A NextGen Software Engineer.
+## Hello, I'm Amar Nagargoje - Software + GenAI
 <a href="https://amarnagargoje.netlify.app/" target="_blank">Portfolio</a>
 <br/>
 
 I am a graduate student at Northeastern University. I have 3 years of work experience in software development and is focused in niche software development such as AR, VR, Swift, Java, MERN and 3D
 
 <div>
-- ⚡ I’m currently working on building realtime software and critical systems both in healthcare domain but not limited<br>
-- 💡 I’m a entrepreneur by nature - Cofounder @ AetherAR<br>
-- 🧠 I’m also working on GenAI model building and deploying with LLM's<br>
-- 📫 Reach out to me at my email (amardnagargoje@gmail.com) or at my linkedin - https://www.linkedin.com/in/amarcs
+- ⚡ Currently building realtime software and critical systems both in healthcare domain but not limited<br>
+- 💡 Cofounder @ AetherAR<br>
+- 🧠 Certified GenAI Professional<br>
+- 📫 Reach out @ <a href="https://www.linkedin.com/in/amarcs" target="_blank">linkedin</a>
 
 </div>
 
