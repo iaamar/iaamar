@@ -26,10 +26,12 @@ I am a graduate student at Northeastern University. I have 3 years of work exper
    * INFO 6150:- Web Development and User Experience - MERN
    * INFO 6350:- SmartPhone Based Web Development - Swift
    * INFO 7374:- Adv Techniques With LLM - Python
+   * CSYE 6225:- Network Structures and Cloud Computing - NodeJs, React, AWS, Terraform, Docker, Packer etc.
+   * CSYE 7380:- Theory & Practical Applications of AI Gen Models - Python, GenAI, Data Science, ML
 
-**Bachelor of Technology in Computer Science and Engineering**:- I completed my B. Tech from Maharashtra Institute of Technology, Pune, India (3.3/4.0 GPA). During my coursework, I explored some new fields like Artificial Intelligence, Big Data Analytics, Machine Learning, Deep Learning, Computer Graphics, Data Science, Compiler Design, Operating Systems, and Theory of Computation were the other interesting subjects I deep-dived into during this degree course
+**Bachelor of Technology in Computer Science and Engineering**:- I completed my B. Tech from Maharashtra Institute of Technology, Pune, India. During my coursework, I explored some new fields like Artificial Intelligence, Big Data Analytics, Machine Learning, Deep Learning, Computer Graphics, Data Science, Compiler Design, Operating Systems, and Theory of Computation were the other interesting subjects I deep-dived into during this degree course
 
 
 # **Things I like to do** 
-I would play tennis and travel to unvisited places
+I love to play tennis and travel to unvisited places
 
