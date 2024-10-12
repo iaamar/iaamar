@@ -1,4 +1,4 @@
-## Hello, I'm Amar Nagargoje - Software + GenAI
+## Hello, I'm Amar
 <a href="https://amarnagargoje.netlify.app/" target="_blank">Portfolio</a>
 <br/>
 
