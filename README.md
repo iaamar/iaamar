@@ -8,7 +8,7 @@ I am a graduate student at Northeastern University. I have 3 years of work exper
 - ⚡ Currently building realtime software and critical systems both in healthcare domain but not limited<br>
 - 💡 Cofounder @ AetherAR<br>
 - 🧠 Certified GenAI Professional<br>
-- 📫 Reach out @ <a href="https://www.linkedin.com/in/amarcs" target="_blank">linkedin</a>
+- 📫 Reach out @ <a href="https://www.linkedin.com/in/amarcs" target="_blank">linkedin</a> or nagargoje.a@northeastern.edu
 
 </div>
 
