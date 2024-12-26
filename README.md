@@ -2,7 +2,7 @@
 <a href="https://amarnagargoje.netlify.app/" target="_blank">Portfolio</a>
 <br/>
 
-I am a graduate student at Northeastern University. I have 3 years of work experience in software development and is focused in niche software development such as AR, VR, Swift, Java, MERN, 3D and GenAI
+I am a graduate student at Northeastern University. I have 3 years of work experience in Software & AI development and is focused in niche software development such as Java, MERN, GenAI, AR, VR & Swift.
 
 <div>
 - ⚡ Currently building realtime software and critical systems both in healthcare domain but not limited<br>
