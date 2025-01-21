@@ -1,5 +1,5 @@
 ## Hello, I'm Amar
-<a href="https://[amarnagargoje.netlify.app](https://amarnagargoje.lovable.app)/" target="_blank">Gen AI Portfolio</a>
+<a href="https://amarnagargoje.lovable.app" target="_blank">Gen AI Portfolio</a>
 <br/>
 
 I am a graduate student at Northeastern University. I have 3 years of work experience in Software & AI development and is focused in niche software development such as Java, MERN, GenAI, AR, VR & Swift.
@@ -28,6 +28,7 @@ I am a graduate student at Northeastern University. I have 3 years of work exper
    * INFO 7374:- Adv Techniques With LLM - Python
    * CSYE 6225:- Network Structures and Cloud Computing - NodeJs, React, AWS, Terraform, Docker, Packer etc.
    * CSYE 7380:- Theory & Practical Applications of AI Gen Models - Python, GenAI, Data Science, ML
+   * CSYE 7280:- User Experience Design and Testing
 
 **Bachelor of Technology in Computer Science and Engineering**:- I completed my B. Tech from Maharashtra Institute of Technology, Pune, India. During my coursework, I explored some new fields like Artificial Intelligence, Big Data Analytics, Machine Learning, Deep Learning, Computer Graphics, Data Science, Compiler Design, Operating Systems, and Theory of Computation were the other interesting subjects I deep-dived into during this degree course
 
