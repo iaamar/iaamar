@@ -1,5 +1,5 @@
 ## Hello, I'm Amar
-<a href="https://amarnagargoje.lovable.app" target="_blank">Gen AI Portfolio</a>
+<a href="https://nagargojeamar.lovable.app" target="_blank">Gen AI Portfolio</a>
 <br/>
 
 I am a graduate student at Northeastern University. I have 3 years of work experience in Software & AI development and is focused in niche software development such as Java, MERN, GenAI, AR, VR & Swift.
