@@ -2,7 +2,7 @@
 
 <br/>
 
-I am a graduate student at Northeastern University. I have 3 years of work experience in Software development and is focused in niche software development such as Java, MERN, GenAI, AR, VR & Swift/Kotlin.
+I am a graduate student at Northeastern University. I have 4 years of work experience in Software development and is focused in niche software development such as Java, MERN, GenAI, AR, VR & Swift/Kotlin.
 
 <div>
 - ⚡ Currently building realtime software and critical systems both in healthcare domain but not limited<br>
