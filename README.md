@@ -2,12 +2,11 @@
 
 <br/>
 
-I am a graduate student at Northeastern University. I have 4 years of work experience in Software development and is focused in niche software development such as Java, MERN, GenAI, AR, VR & Swift/Kotlin.
+I am a Founding AI Engineer at EasyBeeAI. I have 4 years of work experience in Software Development in AI and is focused in niche software development such as Python, Node, Java, MERN and GenAI.
 
 <div>
-- ⚡ Currently building realtime software and critical systems both in healthcare domain but not limited<br>
-- 📫 Reach out @ <a href="https://www.linkedin.com/in/amarcs" target="_blank">linkedin</a> or nagargoje.a@northeastern.edu
-
+- ⚡ Portfolio: <a href="https://amargpt.netlify.app/" target="_blank">amargpt.netlify.app</a><br>
+- 📫 Reach out @ <a href="https://www.linkedin.com/in/amarcs" target="_blank">linkedin</a> or amardnagargoje@gmail.com
 </div>
 
 #### ⚡ Skills
